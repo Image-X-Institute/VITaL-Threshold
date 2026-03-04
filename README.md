@@ -1,4 +1,5 @@
 # VITaL-Threshold
+# Repository contain Eclipse script and MiM workflow files for the functional contouring for VITal Trial
 
 Author: Guneet Kaur
 
